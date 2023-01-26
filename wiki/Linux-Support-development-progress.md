@@ -1,4 +1,4 @@
-**Warning:** This page is very outdated, see [Building From Source](https://github.com/alvr-org/ALVR/wiki/Building-From-Source) instead.
+**Warning:** This page is outdated and doesn't get updated often; see [Building From Source](https://github.com/alvr-org/ALVR/wiki/Building-From-Source).
 
 ## 2022-01-04
 An experimental NVENC fork has successfully been created by [Toxblh](https://github.com/Toxblh), helping fix one of the larger bottlenecks on NVIDIA GPUs. [Pull Request here](https://github.com/alvr-org/ALVR/pull/906)
